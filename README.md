@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @victoriachakma
-- 👀 I’m interested in ui/ux + learning more programming languages! 
-- 🌱 I’m currently learning django + web development. 
-- 💞️ I’m looking to collaborate on any and all projects! 
-- 📫 How to reach me --> victoriac.6535@gmail.com 
+- 👀 I’m interested in UI/UX and web development! 
+- 🌱 I’m currently learning React!
+- 💞️ I’m looking to collaborate on more projects!
+- 📫 How to reach me --> vchakma04@gmail.com
 
 <!---
 victoriachakma/victoriachakma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
