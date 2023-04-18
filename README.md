@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victoriachakma
-- 👀 I’m interested in UI/UX and web development! 
-- 🌱 I’m currently learning React!
+- 👀 I’m interested in UI/UX and web development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on more projects!
 - 📫 How to reach me --> vchakma04@gmail.com
 
