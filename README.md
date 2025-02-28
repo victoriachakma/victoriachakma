@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victoriachakma
-- 👀 I’m interested in UI/UX and web development
+- 👀 I’m interested in web development and quality engineering
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on more projects!
 - 📫 React out and connect --> vchakma@uwaterloo.ca
